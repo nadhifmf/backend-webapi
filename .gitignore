@@ -12,3 +12,6 @@ pyvenv.cfg
 pip-selfcheck.json
 _pycache_
 backendapi/__pycache__/
+backendapi/backendapi/api/__pycache__/
+backendapi/backendapi/backendapiproj/__pycache__/
+backendapi/backendapi/api/migrations/__pycache__/
