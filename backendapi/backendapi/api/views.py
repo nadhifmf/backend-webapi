@@ -1,6 +1,6 @@
 import json
 from django.forms.models import model_to_dict
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponse
 from product.models import Product
 
 def home_api(request, *args, **kwargs):
