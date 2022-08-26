@@ -15,3 +15,5 @@ backendapi/__pycache__/
 backendapi/backendapi/api/__pycache__/
 backendapi/backendapi/backendapiproj/__pycache__/
 backendapi/backendapi/api/migrations/__pycache__/
+backendapi/backendapi/product/__pycache__/
+backendapi/backendapi/product/migrations/__pycache__/
